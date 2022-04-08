@@ -90,7 +90,7 @@ define(['pipAPI',  'https://cdn.jsdelivr.net/gh/jspeer1/testing/touchscreen.js']
 	    stimulusMedia :  darkMedia, 
 
 		//Stimulus css (style)
-		stimulusCss : {color:'#31940F','font-size':'2.3em','height':'20%','margin-bottom':'5%'}
+		stimulusCss : {color:'#31940F','font-size':'2.3em','height':'20%','margin-bottom':'10%'}
 	},    
 	category2 :    {
 	    name : 'Light Skinned People', //Will appear in the data.
@@ -101,7 +101,7 @@ define(['pipAPI',  'https://cdn.jsdelivr.net/gh/jspeer1/testing/touchscreen.js']
 	    }, 
 	    stimulusMedia :  lightMedia, 
 		//Stimulus css (style)
-		stimulusCss : {color:'#31940F','font-size':'2.3em','height':'20%','margin-bottom':'5%'}
+		stimulusCss : {color:'#31940F','font-size':'2.3em','height':'20%','margin-bottom':'10%'}
 	},
 		attribute1 :
 		{
